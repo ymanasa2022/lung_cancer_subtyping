@@ -29,3 +29,5 @@ Manasa Yadavalli, Ziqing Zhu, Katie Alltop, Lovelyn Epelle, Shiyang Li
 
 # instructions
 insert instructions on how to run the code once it's done
+## system_setup
+pip install GEOparse
