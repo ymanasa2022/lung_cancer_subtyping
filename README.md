@@ -3,11 +3,7 @@ a mathematical model that can discriminate between two lung cancer subtypes
 to build the model we use an unsupervised k-means clustering algorithm (Euclidean distance) of 58 NSCLC tumors using k=2.
 
 # Team Members
-Manasa Yadavalli 
-Ziqing Zhu
-Katie Alltop
-Lovelyn Epelle
-Shiyang Li
+Manasa Yadavalli, Ziqing Zhu, Katie Alltop, Lovelyn Epelle, Shiyang Li
 
 # Key Steps
 1. Load the data using the GEOparse module
