@@ -27,3 +27,5 @@ Manasa Yadavalli, Ziqing Zhu, Katie Alltop, Lovelyn Epelle, Shiyang Li
 
 # deadline: Dec 7, 2023
 
+# instructions
+insert instructions on how to run the code once it's done
